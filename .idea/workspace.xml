@@ -10,14 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931952ad-7003-4174-ae1b-0a7141f8a8ac" name="Changes" comment="ConferenceConfig">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/messages_ru.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/ConferenceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/ConferenceConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +253,17 @@
       <workItem from="1665683795654" duration="5372000" />
       <workItem from="1665770118519" duration="6347000" />
       <workItem from="1665837952369" duration="440000" />
-      <workItem from="1665838405186" duration="2259000" />
+      <workItem from="1665838405186" duration="5052000" />
+      <workItem from="1666095329404" duration="1154000" />
+      <workItem from="1666097337249" duration="20000" />
+      <workItem from="1666097371956" duration="876000" />
+      <workItem from="1666098257822" duration="641000" />
+      <workItem from="1666098924992" duration="672000" />
+      <workItem from="1666116781978" duration="3995000" />
+      <workItem from="1666121856794" duration="7000" />
+      <workItem from="1666122250117" duration="1036000" />
+      <workItem from="1666124876984" duration="399000" />
+      <workItem from="1666125285552" duration="27000" />
     </task>
     <task id="LOCAL-00001" summary="ConferenceConfig">
       <created>1665773294800</created>
