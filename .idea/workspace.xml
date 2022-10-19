@@ -10,11 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931952ad-7003-4174-ae1b-0a7141f8a8ac" name="Changes" comment="ConferenceConfig">
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/UserController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -263,7 +259,8 @@
       <workItem from="1666121856794" duration="7000" />
       <workItem from="1666122250117" duration="1036000" />
       <workItem from="1666124876984" duration="399000" />
-      <workItem from="1666125285552" duration="27000" />
+      <workItem from="1666125285552" duration="389000" />
+      <workItem from="1666204677916" duration="2119000" />
     </task>
     <task id="LOCAL-00001" summary="ConferenceConfig">
       <created>1665773294800</created>
