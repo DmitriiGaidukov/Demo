@@ -9,17 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="931952ad-7003-4174-ae1b-0a7141f8a8ac" name="Changes" comment="ConferenceConfig">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/RegistrationReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/CourseRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/CourseRepositoryImpl.java" afterDir="false" />
+    <list default="true" id="931952ad-7003-4174-ae1b-0a7141f8a8ac" name="Changes" comment="registration update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/controller/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/model/Registration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/RegistrationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/RegistrationRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/RegistrationRepositoryImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/repository/RegistrationRepositoryImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/RegistrationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/RegistrationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/demo/service/RegistrationServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/demo/service/RegistrationServiceImpl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -283,7 +275,7 @@
       <workItem from="1666427242862" duration="8134000" />
       <workItem from="1666513673162" duration="3192000" />
       <workItem from="1666525949487" duration="1386000" />
-      <workItem from="1666527346097" duration="3664000" />
+      <workItem from="1666527346097" duration="5195000" />
     </task>
     <task id="LOCAL-00001" summary="ConferenceConfig">
       <created>1665773294800</created>
@@ -292,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665773294800</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="registration update">
+      <created>1666532435441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666532435441</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,18 +310,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ConferenceConfig" />
-    <option name="LAST_COMMIT_MESSAGE" value="ConferenceConfig" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/service/RegistrationServiceImpl.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="registration update" />
+    <option name="LAST_COMMIT_MESSAGE" value="registration update" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

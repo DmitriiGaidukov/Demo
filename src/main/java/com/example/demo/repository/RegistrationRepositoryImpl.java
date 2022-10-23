@@ -17,6 +17,7 @@ public class RegistrationRepositoryImpl implements RegistrationRepository {
     @Override
     public Registration Save(Registration registration) {
         if (registration.getId() == null) {
+            System.out.println("registration.getId() == null is true!!!");
             entityManager.persist(registration);
         }
         else {

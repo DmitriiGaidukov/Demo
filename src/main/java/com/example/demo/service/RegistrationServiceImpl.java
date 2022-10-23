@@ -24,10 +24,6 @@ public class RegistrationServiceImpl implements RegistrationService {
     @Transactional
     public Registration addRegistration(Registration registration) {
 
-        registration = registrationRepository.Save(registration);
-
-        System.out.println("registration.getId() = " + registration.getId());
-
         if(registration.getId() == null) {
             Course course = new Course();
             course.setName("Intro");
@@ -36,6 +32,8 @@ public class RegistrationServiceImpl implements RegistrationService {
 
             courseRepository.save(course);
         }
+
+        registration = registrationRepository.Save(registration);
 
         return registration;
     }
